@@ -1,0 +1,3 @@
+rno 	name 	mobile 		eng 	maths
+cse1 	sai 	9848022338 	60 	70
+cse4	ravi	9849022456	10	20
